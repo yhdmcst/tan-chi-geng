@@ -1,0 +1,254 @@
+[
+  {
+    "id": "nailong",
+    "variant": 1,
+    "source": "奶龙/屏幕截图 2026-10-01 110325.png",
+    "output": "assets/characters/nailong-1.png",
+    "width": 157,
+    "height": 147,
+    "removedBackgroundPixels": 3772
+  },
+  {
+    "id": "nailong",
+    "variant": 2,
+    "source": "奶龙/屏幕截图 2026-10-01 110354.png",
+    "output": "assets/characters/nailong-2.png",
+    "width": 142,
+    "height": 161,
+    "removedBackgroundPixels": 9516
+  },
+  {
+    "id": "nailong",
+    "variant": 3,
+    "source": "奶龙/屏幕截图 2026-10-01 110406.png",
+    "output": "assets/characters/nailong-3.png",
+    "width": 155,
+    "height": 167,
+    "removedBackgroundPixels": 9517
+  },
+  {
+    "id": "nailong",
+    "variant": 4,
+    "source": "奶龙/屏幕截图 2026-10-01 110549.png",
+    "output": "assets/characters/nailong-4.png",
+    "width": 100,
+    "height": 97,
+    "removedBackgroundPixels": 5202
+  },
+  {
+    "id": "nailong",
+    "variant": 5,
+    "source": "奶龙/屏幕截图 2026-10-01 110619.png",
+    "output": "assets/characters/nailong-5.png",
+    "width": 92,
+    "height": 112,
+    "removedBackgroundPixels": 6077
+  },
+  {
+    "id": "niulai",
+    "variant": 1,
+    "source": "牛来/屏幕截图 2026-10-01 110850.png",
+    "output": "assets/characters/niulai-1.png",
+    "width": 162,
+    "height": 157,
+    "removedBackgroundPixels": 162
+  },
+  {
+    "id": "niulai",
+    "variant": 2,
+    "source": "牛来/屏幕截图 2026-10-01 110914.png",
+    "output": "assets/characters/niulai-2.png",
+    "width": 152,
+    "height": 167,
+    "removedBackgroundPixels": 15949
+  },
+  {
+    "id": "niulai",
+    "variant": 3,
+    "source": "牛来/屏幕截图 2026-10-01 111110.png",
+    "output": "assets/characters/niulai-3.png",
+    "width": 162,
+    "height": 135,
+    "removedBackgroundPixels": 0
+  },
+  {
+    "id": "niulai",
+    "variant": 4,
+    "source": "牛来/屏幕截图 2026-10-01 111123.png",
+    "output": "assets/characters/niulai-4.png",
+    "width": 122,
+    "height": 157,
+    "removedBackgroundPixels": 5176
+  },
+  {
+    "id": "niulai",
+    "variant": 5,
+    "source": "牛来/屏幕截图 2026-10-01 111145.png",
+    "output": "assets/characters/niulai-5.png",
+    "width": 151,
+    "height": 156,
+    "removedBackgroundPixels": 14053
+  },
+  {
+    "id": "lulu",
+    "variant": 1,
+    "source": "噜噜/屏幕截图 2026-10-01 112253.png",
+    "output": "assets/characters/lulu-1.png",
+    "width": 162,
+    "height": 162,
+    "removedBackgroundPixels": 0
+  },
+  {
+    "id": "lulu",
+    "variant": 2,
+    "source": "噜噜/屏幕截图 2026-10-01 112444.png",
+    "output": "assets/characters/lulu-2.png",
+    "width": 157,
+    "height": 160,
+    "removedBackgroundPixels": 0
+  },
+  {
+    "id": "lulu",
+    "variant": 3,
+    "source": "噜噜/屏幕截图 2026-10-01 112457.png",
+    "output": "assets/characters/lulu-3.png",
+    "width": 156,
+    "height": 162,
+    "removedBackgroundPixels": 0
+  },
+  {
+    "id": "lulu",
+    "variant": 4,
+    "source": "噜噜/屏幕截图 2026-10-01 112511.png",
+    "output": "assets/characters/lulu-4.png",
+    "width": 137,
+    "height": 170,
+    "removedBackgroundPixels": 8420
+  },
+  {
+    "id": "lulu",
+    "variant": 5,
+    "source": "噜噜/屏幕截图 2026-10-01 112525.png",
+    "output": "assets/characters/lulu-5.png",
+    "width": 146,
+    "height": 162,
+    "removedBackgroundPixels": 3
+  },
+  {
+    "id": "kangaroo",
+    "variant": 1,
+    "source": "美团袋鼠/屏幕截图 2026-10-01 110147.png",
+    "output": "assets/characters/kangaroo-1.png",
+    "width": 162,
+    "height": 167,
+    "removedBackgroundPixels": 11401
+  },
+  {
+    "id": "kangaroo",
+    "variant": 2,
+    "source": "美团袋鼠/屏幕截图 2026-10-01 110209.png",
+    "output": "assets/characters/kangaroo-2.png",
+    "width": 125,
+    "height": 150,
+    "removedBackgroundPixels": 2319
+  },
+  {
+    "id": "kangaroo",
+    "variant": 3,
+    "source": "美团袋鼠/屏幕截图 2026-10-01 110235.png",
+    "output": "assets/characters/kangaroo-3.png",
+    "width": 161,
+    "height": 162,
+    "removedBackgroundPixels": 10248
+  },
+  {
+    "id": "kangaroo",
+    "variant": 4,
+    "source": "美团袋鼠/屏幕截图 2026-10-01 110250.png",
+    "output": "assets/characters/kangaroo-4.png",
+    "width": 162,
+    "height": 160,
+    "removedBackgroundPixels": 5262
+  },
+  {
+    "id": "kangaroo",
+    "variant": 5,
+    "source": "美团袋鼠/屏幕截图 2026-10-01 110701.png",
+    "output": "assets/characters/kangaroo-5.png",
+    "width": 160,
+    "height": 165,
+    "removedBackgroundPixels": 13506
+  },
+  {
+    "id": "tangdou",
+    "variant": 1,
+    "source": "糖豆/屏幕截图 2026-10-01 111949.png",
+    "output": "assets/characters/tangdou-1.png",
+    "width": 152,
+    "height": 127,
+    "removedBackgroundPixels": 8226
+  },
+  {
+    "id": "tangdou",
+    "variant": 2,
+    "source": "糖豆/屏幕截图 2026-10-01 112013.png",
+    "output": "assets/characters/tangdou-2.png",
+    "width": 151,
+    "height": 112,
+    "removedBackgroundPixels": 5929
+  },
+  {
+    "id": "tangdou",
+    "variant": 3,
+    "source": "糖豆/屏幕截图 2026-10-01 112026.png",
+    "output": "assets/characters/tangdou-3.png",
+    "width": 157,
+    "height": 135,
+    "removedBackgroundPixels": 10155
+  },
+  {
+    "id": "tangdou",
+    "variant": 4,
+    "source": "糖豆/屏幕截图 2026-10-01 112039.png",
+    "output": "assets/characters/tangdou-4.png",
+    "width": 120,
+    "height": 151,
+    "removedBackgroundPixels": 6461
+  },
+  {
+    "id": "tangdou",
+    "variant": 5,
+    "source": "糖豆/屏幕截图 2026-10-01 112122.png",
+    "output": "assets/characters/tangdou-5.png",
+    "width": 176,
+    "height": 117,
+    "removedBackgroundPixels": 13394
+  },
+  {
+    "id": "hazard",
+    "variant": 1,
+    "source": "必死/屏幕截图 2026-10-01 110515.png",
+    "output": "assets/characters/hazard-1.png",
+    "width": 141,
+    "height": 136,
+    "removedBackgroundPixels": 10167
+  },
+  {
+    "id": "hazard",
+    "variant": 2,
+    "source": "必死/屏幕截图 2026-10-01 110810.png",
+    "output": "assets/characters/hazard-2.png",
+    "width": 160,
+    "height": 137,
+    "removedBackgroundPixels": 13
+  },
+  {
+    "id": "hazard",
+    "variant": 3,
+    "source": "必死/屏幕截图 2026-10-01 110829.png",
+    "output": "assets/characters/hazard-3.png",
+    "width": 170,
+    "height": 162,
+    "removedBackgroundPixels": 5498
+  }
+]
